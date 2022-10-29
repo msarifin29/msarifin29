@@ -9,11 +9,17 @@
 ###  Technologi and Tools
 
 <img src="https://badgen.net/badge/icon/git?icon=git&label" />
+
 <img src="https://badgen.net/badge/icon/github?icon=github&label" />
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />
+
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
+
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
 
 ###  ⚡ GitHub Stats
