@@ -1,16 +1,26 @@
+
+ <div align="center">
+ 
 ## Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
+###  I'm Samsul
 
-***I'm Samsul***
+<img src="https://img.shields.io/github/stars/msarifin29?style=social" />
 
-![](https://img.shields.io/github/stars/msarifin29?style=social)
-![](https://img.shields.io/github/languages/top/msarifin29/fugi_movie_app_team5)
+###  Technologi and Tools
+
+<img src="https://badgen.net/badge/icon/git?icon=git&label" />
+<img src="https://badgen.net/badge/icon/github?icon=github&label" />
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
 
 ###  ⚡ GitHub Stats
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msarifin29&layout=compact&count_private=true&theme=gruvbox" />
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msarifin29&show_icons=true&theme=radical)
 
 
 
