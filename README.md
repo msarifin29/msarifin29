@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
+<img src="https://badgen.net/pub/flutter-platform/xml" />
 
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
 
