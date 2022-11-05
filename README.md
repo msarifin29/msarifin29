@@ -8,7 +8,7 @@
 
 #  Technologi and Tools
 
-<img src="https://badgen.net/badge/icon/git?icon=git&label" heigth="50" width="70" src="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8_rS1wpL7AhUxhuYKHbpuCb0QFnoECBAQAQ&url=https%3A%2F%2Fgit-scm.com%2F&usg=AOvVaw1lFNWgbWf8FsbaoU4AOPBr" />
+<img src="https://badgen.net/badge/icon/git?icon=git&label" heigth="50" width="70" />
 
 <img src="https://badgen.net/badge/icon/github?icon=github&label" heigth="50" width="95" />
 
