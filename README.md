@@ -4,7 +4,10 @@
 # Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ***I'm Samsul***
 ### ***I like to learn new things related to software development***
 
-<img src="https://img.shields.io/github/stars/msarifin29?style=social" height="35"/>
+| Email : ms.arifin29@gmail.com |
+| -- |
+| Telegram : +62 896 8140 8226 |
+
 
 #  Technologi and Tools
 
@@ -20,7 +23,6 @@
 
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" heigth="50" width="100" />
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" heigth="50" width="100"/>
 
 #  ⚡ GitHub Stats
 
