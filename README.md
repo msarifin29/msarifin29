@@ -5,7 +5,9 @@
 
 🎯 I'm a Mobile Enginer at [Jobseeker](https://jobseeker.company/) in Bali,Indonesia 
 
-📦 I’m currently learn dart, flutter and use it to build a software
+📦 I’m currently learn 
+### [Dart](https://dart.dev/), [Java](https://www.java.com/en/), [Flutter](https://docs.flutter.dev/get-started/install) 
+and use it to build a software
 
 Email me at [G-mail](mailto:ms.arifin29@gmail.com)
 
