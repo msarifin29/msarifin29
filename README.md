@@ -3,10 +3,10 @@
  
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ***Hi there, My name Samsul***
 
-🎯 I'm a Mobile Enginer at [Jobseeker](https://jobseeker.company/) in Bali,Indonesia 
+🎯 I'm a Mobile Enginer at [PT. Aplikasi Pekerja Indonesia](https://jobseeker.company/) in Bali,Indonesia 
 
 📦 I’m currently learn 
-### [Dart](https://dart.dev/), [Flutter](https://docs.flutter.dev/get-started/install) 
+### [Flutter or Dart](https://docs.flutter.dev/get-started/install), [Rust](https://www.rust-lang.org/)
 and use it to build a software
 
 Email me at [G-mail](mailto:ms.arifin29@gmail.com)
