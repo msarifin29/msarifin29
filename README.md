@@ -3,7 +3,7 @@
  
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> ***Hi there, My name Samsul***
 
-🎯 I'm a Mobile Enginer at WWWaste in Bali,Indonesia 
+🎯 I'm a Mobile Enginer in Bali,Indonesia 
 
 📦 I’m currently learn 
 ### [Flutter or Dart](https://docs.flutter.dev/get-started/install), [Rust](https://www.rust-lang.org/)
