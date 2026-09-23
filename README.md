@@ -5,9 +5,6 @@
 
 🎯 I'm a Mobile Enginer in Bali,Indonesia 
 
-📦 I’m currently learn 
-### [Flutter or Dart](https://docs.flutter.dev/get-started/install), [Rust](https://www.rust-lang.org/)
-and use it to build a software
 
 Email me at [G-mail](mailto:ms.arifin29@gmail.com)
 
